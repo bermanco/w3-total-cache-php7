@@ -2,6 +2,6 @@
 	"name": "bermanco/w3-total-cache-php7",
 	"type": "wordpress-plugin",
 	"require": {
-		"composer/installers": "~1.0",
+		"composer/installers": "~1.0"
 	}
 }
